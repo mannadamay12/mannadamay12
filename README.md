@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/adamay_mann" target="blank"><img src="https://img.shields.io/twitter/follow/adamay_mann?logo=twitter&style=for-the-badge" alt="adamay_mann" /></a> </p>
 
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mannadamay12" alt="mannadamay12" /> </p>
 <img align="left" title="Adamay Mann" alt="Adamay Mann" width="400" src="./logos/animation.gif" />
 
 <h3>
