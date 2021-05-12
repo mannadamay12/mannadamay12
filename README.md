@@ -51,6 +51,10 @@ Tools I use: <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannadamay12&show_icons=true&locale=en" alt="mannadamay12" width="450" height="250" /></p>
 <p align="center">
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannadamay12&layout=compact&theme=radical" alt="mannadamay12" /></p>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mannadamay12&show_icons=true&theme=radical" alt="mannadamay12" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannadamay12" alt="Github Streak Stats">
 </p>
 <p align="center">
