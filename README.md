@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adamay Mann</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is ADAMAY MANN</h1>
 <h3 align="center">An UnderGrad student studying Computer Science in India</h3>
 
 <p align="left"> <a href="https://twitter.com/adamay_mann" target="blank"><img src="https://img.shields.io/twitter/follow/adamay_mann?logo=twitter&style=for-the-badge" alt="adamay_mann" /></a> </p>
@@ -6,6 +6,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mannadamay12" alt="mannadamay12" /> </p>
 
 <img align="left" title="Adamay Mann" alt="Adamay Mann" width="400" src="./logos/animation.gif" />
+
+<h3>About Me:</h3>
+
+- 🔭 I’m currently working on <a href="https://github.com/ad_mann12/notefy"><img src="https://servatom.com/assets/notefy/logo.png" height="15px"> Notefy</a> .
+- 🌱 I’m currently learning Machine Learning & DSA
+- 👯 I’m looking to collaborate on Full Stack Web Development 
+- 🤝 I'm Looking for help with DSA
+- 🌌  Ask me about anything, I am happy to help;
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I play piano 🤪 
+
+<br>
 
 <h3>
 Connect with me: <br>
@@ -42,18 +54,22 @@ Tools I use: <br>
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannadamay12&layout=compact&theme=radical" alt="mannadamay12" /></p>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mannadamay12&show_icons=true&theme=radical" alt="mannadamay12" />
+## Some Stats:
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mannadamay12" alt="Github Streak Stats">
+<a href="https://github.com/yash22arora">
+<img   width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=mannadamay12&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
+<img   width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannadamay12&layout=compact&theme=omni&hide_border=true&hide_title=true" />
+<br>
+<br>
+<img alt="Adamay's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=mannadamay12&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
+</a>
 </p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannadamay12&layout=compact&theme=radical" alt="mannadamay12" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannadamay12&show_icons=true&theme=radical" alt="mannadamay12" />
+<p align="center"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mannadamay12" alt="Github Streak Stats">
+</p> -->
 <p align="center">
     :arrow_down: Scroll down to see my top repositories :arrow_down:
     <br>
@@ -61,4 +77,3 @@ Tools I use: <br>
       Show some ❤️ by starring some of the repositories!
     </b>
 </p>
-
