@@ -9,11 +9,11 @@
 
 <h3>About Me:</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/ad_mann12/notefy"><img src="https://servatom.com/assets/notefy/logo.png" height="15px"> Notefy</a> .
+- 🔭 I’m currently working on My Personal Portfolio Website.
 - 🌱 I’m currently learning Machine Learning & DSA
 - 👯 I’m looking to collaborate on Full Stack Web Development 
 - 🤝 I'm Looking for help with DSA
-- 🌌  Ask me about anything, I am happy to help;
+- 🌌  Ask me about anything, I am happy to help
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I play piano 🤪 
 
