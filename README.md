@@ -57,7 +57,7 @@ Tools I use: <br>
 
 ## Some Stats:
 <p align="center">
-<a href="https://github.com/yash22arora">
+<a href="https://github.com/mannadamay12">
 <img   width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=mannadamay12&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
 <img   width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannadamay12&layout=compact&theme=omni&hide_border=true&hide_title=true" />
 <br>
