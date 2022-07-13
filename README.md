@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, my name is ADAMAY MANN</h1>
-<h3 align="center">An UnderGrad student studying Computer Science in India</h3>
+<h3 align="center">An Undergrad student studying Computer Science in India</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mannadamay12" alt="mannadamay12"/></p>
 
@@ -7,12 +7,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236EF781&center=true&lines=Nice+to+e-meet+you%F0%9F%98%9C;I+am+an+aspiring+software+engineer%F0%9F%92%BB;Scroll+till+the+end%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adamaymann7)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mannadamay12.github.io/portfolio)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/adamay_mann)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ad_mann12/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@adamaymann)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meadamann2002@gmail.com)
+<a target="_blank" href="https://adamaymann.tech/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
+<a target="_blank" href="https://www.linkedin.com/in/adamaymann7"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:meadamann2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@adamaymann"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/adamay_mann"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 <img align="right" title="Adamay Mann" alt="Adamay Mann" width="400" src="./logos/animation.gif" />
 
@@ -20,7 +19,7 @@
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 </h3>
 
-* 🔭 I’m currently working as Software Developer Associate at [IKARUS 3D](ikarus3d.com)
+* 🔭 I’m currently working as Software Developer Associate at [IKARUS 3D](https://ikarus3d.com)
 * 🌱 I’m currently learning Deep Learning & DSA
 * 👯 I’m looking to collaborate on Full Stack Web Development 
 * 🤝 I'm Looking for help with DSA
@@ -29,15 +28,21 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 * ⚡ Fun fact: I play piano 🤪 
 
 <h3>
-Programming Languages I work with:rocket: <br>
+:man_technologist:Technologies and tools:rocket: <br>
 </h3>
-<img align="left" title="Python" alt="python" width="26px" src="./logos/python.svg" />
-<img align="left" title="C" alt="C" width="26px" src="./logos/c.svg" />
-<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="./logos/javascript.svg" />
-<img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
-<img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
-  
-<br>
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
 <h3>
 Tools I use:man_technologist: <br>
