@@ -14,8 +14,9 @@
 <a target="_blank" href="https://twitter.com/adamay_mann"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="https://dev.to/mannadamay12"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
 <a target="_blank" href="https://hashnode.com/@mannadamay12"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+<a target="_blank" href="https://leetcode.com/meadamann2002/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img></a>
+<a target="_blank" href="https://www.kaggle.com/adamaymann"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></img></a>
+
 <img align="right" title="Adamay Mann" alt="Adamay Mann" width="400" src="./logos/animation.gif" />
 
 <h3 style=>
