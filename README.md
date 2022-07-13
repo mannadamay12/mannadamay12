@@ -44,17 +44,6 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
-<h3>
-Tools I use:man_technologist: <br>
-</h3>
-<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" />
-<img align="left" title="JetBrains PyCharm" alt="JetBrains PyCharm" width="26px" src="./logos/pycharm.svg" />
-<img align="left" title="Discord" alt="Discord" width="26px" src="./logos/discord.svg" />
-<img align="left" title="Git" alt="Git" width="26px" src="./logos/git.svg" />
-<img align="left" title="GitHub" alt="GitHub" width="26px" src="./logos/github.svg" />
-<img align="left" title="Android" alt="Android" width="26px" src="./logos/android.svg" />
-</h3>
-
 <br>
 
 ## Some Stats:
