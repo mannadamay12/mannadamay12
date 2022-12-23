@@ -23,7 +23,6 @@
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 </h3>
 
-* 🔭 I’m currently working as Software Developer Associate at [IKARUS 3D](https://ikarus3d.com)
 * 🌱 I’m currently learning Deep Learning & DSA
 * 👯 I’m looking to collaborate on Full Stack Web Development 
 * 🤝 I'm Looking for help with DSA
