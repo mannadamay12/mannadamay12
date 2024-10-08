@@ -79,7 +79,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br>
-
+<!--
 ## Some Stats:
 <p align="center">
 <a href="https://github.com/mannadamay12">
@@ -87,7 +87,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannadamay12&layout=compact&theme=omni&hide_border=true&hide_title=true" />
 <br>
 <br>
-<!-- <img alt="Adamay's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=mannadamay12&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true"> -->
+<img alt="Adamay's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=mannadamay12&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
 </a>
 </p>
 <p align="center"><a href="https://github.com/mannadamay12"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=mannadamay12&show_icons=true&theme=radical" alt="mannadamay12"></a></p>
@@ -103,3 +103,4 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
+-->
