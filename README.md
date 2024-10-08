@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, my name is ADAMAY MANN</h1>
-<h3 align="center">An Undergrad student studying Computer Science in India</h3>
+<h3 align="center">Computer Science Grad at New York University</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mannadamay12" alt="mannadamay12"/></p>
 
