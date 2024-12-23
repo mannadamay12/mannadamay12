@@ -31,9 +31,9 @@
   <div style="flex: 1;">
     <h3>Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" alt="Cool doge emoji" /></h3>
 
-    - 🌱 I'm currently learning Deep Learning & DSA
-    - 👯 I'm looking to collaborate on Full Stack Web Development 
-    - 🤝 I'm Looking for help with DSA
+    - 🌱 I'm currently learning RAG systems and MLops
+    - 👯 I'm looking to collaborate on Full Stack Web Development and Computer Vision
+    - 🤝 I'm Looking for help with Large Language Models
     - 🌌 Ask me about anything, I am happy to help :)
     - 😄 Pronouns: He/Him 
     - ⚡ Fun fact: I play piano 🤪
