@@ -19,8 +19,8 @@
     <a href="https://www.linkedin.com/in/adamaymann7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:meadamann2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
     <a href="https://medium.com/@adamaymann" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" /></a>
-    <a href="https://twitter.com/adamay_mann" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
-    <a href="https://dev.to/mannadamay12" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
+    <a href="https://x.com/adamay_mann" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
+<!--     <a href="https://dev.to/mannadamay12" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a> -->
     <a href="https://hashnode.com/@mannadamay12" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
     <a href="https://leetcode.com/meadamann2002/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
     <a href="https://www.kaggle.com/adamaymann" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
