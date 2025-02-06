@@ -102,8 +102,13 @@
 
 <h3>📊 GitHub Stats</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mannadamay12)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannadamay12)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mannadamay12" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannadamay12&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <p align="center">
   <b>Show some ❤️ by starring some of the repositories!</b>
