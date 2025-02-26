@@ -101,12 +101,16 @@
 </details>
 
 <h3>📊 GitHub Stats</h3>
+<a href="https://adamaymann.servatom.com">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannadamay12&theme=react-dark&area=true&hide_border=true"/>
+</a>
+<!-- [![Github Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mannadamay12&theme=react-dark&area=true&hide_border=true)](https://adamaymann.servatom.com)
+[![DSA Practice Activity](https://github-readme-activity-graph.vercel.app/graph?username=Sachin1801&repo=DSA_CPP_Leetcode_-_GFG&theme=react-dark&area=true&hide_border=true)](https://github.com/Sachin1801/DSA_CPP_Leetcode_-_GFG) -->
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mannadamay12">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mannadamay12" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/mannadamay12">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannadamay12&layout=compact&langs_count=8&card_width=320" />
 </a>
 
