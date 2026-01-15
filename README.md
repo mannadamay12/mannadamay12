@@ -107,12 +107,12 @@
 <!-- [![Github Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mannadamay12&theme=react-dark&area=true&hide_border=true)](https://adamaymann.servatom.com)
 [![DSA Practice Activity](https://github-readme-activity-graph.vercel.app/graph?username=Sachin1801&repo=DSA_CPP_Leetcode_-_GFG&theme=react-dark&area=true&hide_border=true)](https://github.com/Sachin1801/DSA_CPP_Leetcode_-_GFG) -->
 
-<a href="https://github.com/mannadamay12">
+<!-- <a href="https://github.com/mannadamay12">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mannadamay12" />
 </a>
 <a href="https://github.com/mannadamay12">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannadamay12&layout=compact&langs_count=8&card_width=320" />
-</a>
+</a> -->
 
 <p align="center">
   <b>Show some ❤️ by starring some of the repositories!</b>
